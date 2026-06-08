@@ -1,0 +1,6 @@
+{
+  "name": "StudentHub",
+  "description": "Your ultimate academic student dashboard with timetable, grades, attendance tracking, expense budgets, placement prep, interactive peer community forums, and an advanced Gemini-powered AI Study Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
